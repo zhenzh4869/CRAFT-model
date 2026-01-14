@@ -1,0 +1,246 @@
+{
+  "S1": {
+    "Anhui": {
+      "capacity": 1.162028673006501,
+      "utilization": 100
+    },
+    "Beijing": {
+      "capacity": 0.1609499425246026,
+      "utilization": 1
+    },
+    "Chongqing": {
+      "capacity": 0.4260942747755513,
+      "utilization": 95
+    },
+    "Fujian": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Gansu": {
+      "capacity": 0.01423811796848921,
+      "utilization": 0
+    },
+    "Guangdong": {
+      "capacity": 0.010845096526282719,
+      "utilization": 0
+    },
+    "Guangxi": {
+      "capacity": 0.0782518934392939,
+      "utilization": 0
+    },
+    "Guizhou": {
+      "capacity": 0.49742604667122137,
+      "utilization": 100
+    },
+    "Hainan": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Hebei": {
+      "capacity": 0.6201215509293528,
+      "utilization": 0
+    },
+    "Heilongjiang": {
+      "capacity": 0.3440145511621438,
+      "utilization": 0
+    },
+    "Henan": {
+      "capacity": 1.304027914092454,
+      "utilization": 88
+    },
+    "Hubei": {
+      "capacity": 0.4893699624553296,
+      "utilization": 72
+    },
+    "Hunan": {
+      "capacity": 0.06438946413767292,
+      "utilization": 0
+    },
+    "Inner Mongolia": {
+      "capacity": 10.30706896666752,
+      "utilization": 0
+    },
+    "Jiangsu": {
+      "capacity": 0.557210241263383,
+      "utilization": 22
+    },
+    "Jiangxi": {
+      "capacity": 0.258181147540879,
+      "utilization": 0
+    },
+    "Jilin": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Liaoning": {
+      "capacity": 0.1443823701611922,
+      "utilization": 0
+    },
+    "Ningxia": {
+      "capacity": 1.122406443989672,
+      "utilization": 0
+    },
+    "Qinghai": {
+      "capacity": 0.5410224963163107,
+      "utilization": 0
+    },
+    "Shaanxi": {
+      "capacity": 1.007116211727769,
+      "utilization": 35
+    },
+    "Shandong": {
+      "capacity": 1.471508582917819,
+      "utilization": 70
+    },
+    "Shanghai": {
+      "capacity": 0.11160769637155339,
+      "utilization": 100
+    },
+    "Shanxi": {
+      "capacity": 2.1676595280344126,
+      "utilization": 95
+    },
+    "Sichuan": {
+      "capacity": 0.2245303280091676,
+      "utilization": 0
+    },
+    "Tianjin": {
+      "capacity": 0.4161917869459809,
+      "utilization": 0
+    },
+    "Xinjiang": {
+      "capacity": 0.5638318382246545,
+      "utilization": 0
+    },
+    "Yunnan": {
+      "capacity": 0.07740502977749324,
+      "utilization": 0
+    },
+    "Zhejiang": {
+      "capacity": 0.03027322308837191,
+      "utilization": 0
+    }
+  },
+  "S3": {
+    "Anhui": {
+      "capacity": 0.6975856005480029,
+      "utilization": 100
+    },
+    "Beijing": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Chongqing": {
+      "capacity": 0.1768811100412135,
+      "utilization": 100
+    },
+    "Fujian": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Gansu": {
+      "capacity": 0.8595893942242289,
+      "utilization": 100
+    },
+    "Guangdong": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Guangxi": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Guizhou": {
+      "capacity": 0.3972017654628484,
+      "utilization": 0
+    },
+    "Hainan": {
+      "capacity": 0.0005816312982286618,
+      "utilization": 100
+    },
+    "Hebei": {
+      "capacity": 0.3976491309146212,
+      "utilization": 100
+    },
+    "Heilongjiang": {
+      "capacity": 0.2037245873124767,
+      "utilization": 100
+    },
+    "Henan": {
+      "capacity": 0.972528189799927,
+      "utilization": 100
+    },
+    "Hubei": {
+      "capacity": 0.5542217685527243,
+      "utilization": 0
+    },
+    "Hunan": {
+      "capacity": 0.07447533113647947,
+      "utilization": 0
+    },
+    "Inner Mongolia": {
+      "capacity": 17.26544694712079,
+      "utilization": 100
+    },
+    "Jiangsu": {
+      "capacity": 2.3252777960585553,
+      "utilization": 100
+    },
+    "Jiangxi": {
+      "capacity": 0.2581811475408786,
+      "utilization": 0
+    },
+    "Jilin": {
+      "capacity": 0.0,
+      "utilization": 0
+    },
+    "Liaoning": {
+      "capacity": 0.6852549952690472,
+      "utilization": 100
+    },
+    "Ningxia": {
+      "capacity": 1.202590412090167,
+      "utilization": 100
+    },
+    "Qinghai": {
+      "capacity": 0.4334998255509109,
+      "utilization": 100
+    },
+    "Shaanxi": {
+      "capacity": 0.5424675684142913,
+      "utilization": 100
+    },
+    "Shandong": {
+      "capacity": 2.67996857660282,
+      "utilization": 100
+    },
+    "Shanghai": {
+      "capacity": 0.2998142027673516,
+      "utilization": 100
+    },
+    "Shanxi": {
+      "capacity": 0.184985271957639,
+      "utilization": 100
+    },
+    "Sichuan": {
+      "capacity": 0.2686117155299988,
+      "utilization": 100
+    },
+    "Tianjin": {
+      "capacity": 0.2721593025911889,
+      "utilization": 0
+    },
+    "Xinjiang": {
+      "capacity": 1.931817155643661,
+      "utilization": 100
+    },
+    "Yunnan": {
+      "capacity": 0.02977089285480852,
+      "utilization": 100
+    },
+    "Zhejiang": {
+      "capacity": 0.0441344121643149,
+      "utilization": 100
+    }
+  }
+}

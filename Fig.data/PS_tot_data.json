@@ -1,0 +1,2630 @@
+{
+  "Inner Mongolia & Xinjiang & Ningxia-Methanol": {
+    "S1": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 4.2004586230663365,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 7.188749412029155,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1746898458141872
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 4.347104451083457,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 14.478074344892597,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 7.776278298606606,
+          "Nuclear": 0.0,
+          "Solar": 13.843380260723539,
+          "Gas based": 4.997226231189561,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 9.098916774646202,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 4.669087175636623,
+          "By-product based": 0.012617073179157641
+        },
+        "2060": {
+          "Wind": 30.153411120050325,
+          "Nuclear": 0.0,
+          "Solar": 51.423450118488574,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.2121063346182868,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.06329522366386972,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.3137957416616416
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.20491170046591198,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.5623338707778149,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.14413384474295993
+        },
+        "2045": {
+          "Wind": 0.7691046034057246,
+          "Nuclear": 0.0,
+          "Solar": 0.26534718677067304,
+          "Gas based": 0.03432838992081118,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.18359727214886307,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.4445958024792812,
+          "By-product based": 0.11826205463774224
+        },
+        "2060": {
+          "Wind": 2.1163550757252985,
+          "Nuclear": 0.0,
+          "Solar": 0.7437070331975464,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.14030563624559492
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 21.354624834075764,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.6246986820843092,
+          "By-product based": 1.294205055458261,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 26.349747414784574,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.4913250138044118,
+          "By-product based": 1.34694190076734,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 53.32367335819099,
+          "Coal based": 0.02476330529777845,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0940794611775532,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 80.34770166438399,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.4204815553625822,
+          "MTO": 1.2327375066684005,
+          "ESC": 0.3704569459800704
+        },
+        "2030": {
+          "NSC": 1.9805737906616785,
+          "MTO": 0.7889520042677765,
+          "ESC": 0.7800069101269995
+        },
+        "2045": {
+          "NSC": 3.3173912692207432,
+          "MTO": 0.4039434261851016,
+          "ESC": 0.9625460275628301
+        },
+        "2060": {
+          "NSC": 3.686882935733676,
+          "MTO": 0.20681903420677206,
+          "ESC": 2.0146736332910873
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.3543278226903157,
+          "MTO": 2.901415150230094,
+          "NSC": 1.1951352032623177,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.3897606049593473,
+          "MTO": 2.30821944820491,
+          "NSC": 1.96696389278938,
+          "PDH": 0.56
+        },
+        "2045": {
+          "CC": 0.3201604969308924,
+          "MTO": 1.8898883288429622,
+          "NSC": 3.2541648039042728,
+          "PDH": 1.4305007624956145
+        },
+        "2060": {
+          "CC": 0.29864773626755176,
+          "MTO": 2.2908481414770914,
+          "NSC": 3.0582765475948,
+          "PDH": 2.9775318663935444
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 1.4444896897162867,
+          "NSC": 0.444650609525719
+        },
+        "2030": {
+          "CR": 1.5195030688594708,
+          "NSC": 0.3813710210610568
+        },
+        "2045": {
+          "CR": 1.3051996124936454,
+          "NSC": 0.6121017843768128
+        },
+        "2060": {
+          "CR": 0.9659905421056295,
+          "NSC": 0.8339729479796107
+        }
+      }
+    },
+    "S3": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 4.200458623066334,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 7.18874941202915,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.17468984581418698
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 4.0765526818823785,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 14.205711911792797,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 5.35962137282612,
+          "Nuclear": 0.0,
+          "Solar": 8.435473463957415,
+          "Gas based": 1.4963367382796013,
+          "Hydro": 2.3643175760904953e-16,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.468139591099108,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 3.301821517386691,
+          "By-product based": 0.0126170731791576
+        },
+        "2060": {
+          "Wind": 26.664859700051267,
+          "Nuclear": 0.0,
+          "Solar": 34.53312957040438,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.21210633461828685,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.06329522366386972,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.2930305113280519
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.20491170046591176,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.20772672600582864,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.2030696850384064
+        },
+        "2045": {
+          "Wind": 0.0047709366751072365,
+          "Nuclear": 0.0,
+          "Solar": 0.008358641152951134,
+          "Gas based": -1.117587089538574e-17,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.033162378978768225,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.1308932609615086,
+          "By-product based": 0.15899517106878003
+        },
+        "2060": {
+          "Wind": 0.15026125461593332,
+          "Nuclear": 0.0,
+          "Solar": 0.00981593533725056,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.16026701103711588
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 21.354624834075732,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.5572791596804654,
+          "By-product based": 1.294205055458262,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 18.27563576980255,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.496465981927956,
+          "By-product based": 0.4710067792066166,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 27.844280677373067,
+          "Coal based": 0.021047192793608407,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.5630456130422099,
+          "By-product based": 0.09407946117755323,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 43.030943117271455,
+          "Coal based": 0.0,
+          "BECCS based": 0.6727972399270978,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.420481555362582,
+          "MTO": 1.232737506668402,
+          "ESC": 0.37045694598006995
+        },
+        "2030": {
+          "NSC": 1.898031183518208,
+          "MTO": 0.7889520042677776,
+          "ESC": 0.8625495172704744
+        },
+        "2045": {
+          "NSC": 3.719045403382495,
+          "MTO": 0.4039434261851021,
+          "ESC": 0.5608918934010783
+        },
+        "2060": {
+          "NSC": 3.3254884777645186,
+          "MTO": 0.636080930586005,
+          "ESC": 1.9468061948810185
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.35432782269031576,
+          "MTO": 2.901415150230094,
+          "NSC": 1.1951352032623173,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.3897606049593475,
+          "MTO": 2.308219448204909,
+          "NSC": 1.9669638927893796,
+          "PDH": 0.56
+        },
+        "2045": {
+          "CC": 0.32016049693089255,
+          "MTO": 1.2527139103786702,
+          "NSC": 3.1364694095123267,
+          "PDH": 2.185370575351846
+        },
+        "2060": {
+          "CC": 0.2986477362675519,
+          "MTO": 2.658859456883152,
+          "NSC": 2.0768817086810047,
+          "PDH": 3.590915389901278
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 1.4444896897162876,
+          "NSC": 0.44465060952571933
+        },
+        "2030": {
+          "CR": 1.5195030688594726,
+          "NSC": 0.38137102106105725
+        },
+        "2045": {
+          "CR": 1.305199612493646,
+          "NSC": 0.612101784376812
+        },
+        "2060": {
+          "CR": 1.2174984527608714,
+          "NSC": 0.5824650373243687
+        }
+      }
+    }
+  },
+  "Guangdong & Guangxi-H2 for Refining": {
+    "S1": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.6652692443818318,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.39328971281889546,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.12063850666516225,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05074782180873652,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2060": {
+          "Wind": 0.07230360732492605,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.490089549246574,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.14624894485453316,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.6658253634284144
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.4263588784211944,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.2283601552427621,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.7683480108948213
+        },
+        "2045": {
+          "Wind": 0.01908830801179434,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1447072740758242,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.1480273585027141,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.3068460340069701
+        },
+        "2060": {
+          "Wind": 0.06767365911210292,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.25635455254307227
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.5054263013285757,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.5281016625647496,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.3647043606088583,
+          "By-product based": 0.0,
+          "Biomass based": 0.18997261138918192
+        },
+        "2060": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.9615400556721344,
+          "DAC&GH2 based": 0.20378284572982058,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 3.3228397988153904,
+          "MTO": 0.0,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 3.800724981218067,
+          "MTO": 0.0,
+          "ESC": 0.1
+        },
+        "2045": {
+          "NSC": 4.917305874686697,
+          "MTO": 0.0,
+          "ESC": 0.23
+        },
+        "2060": {
+          "NSC": 6.094842048234964,
+          "MTO": 0.0,
+          "ESC": 0.3981107511893944
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.43306733942711706,
+          "MTO": 0.0,
+          "NSC": 2.3153982494860412,
+          "PDH": 1.246709004937566
+        },
+        "2030": {
+          "CC": 0.4763740733698289,
+          "MTO": 0.0,
+          "NSC": 2.763736379340381,
+          "PDH": 1.4498771139841184
+        },
+        "2045": {
+          "CC": 0.391307274553788,
+          "MTO": 0.6064359384738507,
+          "NSC": 3.358255411694829,
+          "PDH": 1.8327997833916363
+        },
+        "2060": {
+          "CC": 0.36501390037428444,
+          "MTO": 1.5523029813032012,
+          "NSC": 3.676401472503458,
+          "PDH": 2.148483343219219
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 1.935302935097123,
+          "NSC": 1.3446160656944333
+        },
+        "2030": {
+          "CR": 2.093407884014438,
+          "NSC": 1.2068832844838981
+        },
+        "2045": {
+          "CR": 1.7486844377841861,
+          "NSC": 1.5801277655036423
+        },
+        "2060": {
+          "CR": 1.304947121951203,
+          "NSC": 1.8201434042688267
+        }
+      }
+    },
+    "S3": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.6652692443818309,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.3932897128188963,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.18386593533944837,
+          "Solar": 0.0,
+          "Gas based": 0.12063850666516204,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.009786389683673428,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2060": {
+          "Wind": 1.029324500715158e-17,
+          "Nuclear": 0.36234781985275144,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.4900895492465752,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.14624894485453355,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.6705669705564251
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.4734657411218579,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.2525660175261144,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.711564252475315
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 1.4432317605064586,
+          "Solar": 0.0,
+          "Gas based": 0.09515930148678794,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.16757818492322446,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.2752801821374007
+        },
+        "2060": {
+          "Wind": 0.0,
+          "Nuclear": 1.840950270242837,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.22069298573139662
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.5054263013285766,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.5281016625647491,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 0.5135971272600055,
+          "Coal based": 0.001385105521197052,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.22249054726925577,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.6959094107288426,
+          "DAC&GH2 based": 0.18517321812274892,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 3.3228397988153913,
+          "MTO": 0.0,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 3.800724981218074,
+          "MTO": 0.0,
+          "ESC": 0.1
+        },
+        "2045": {
+          "NSC": 5.047305874686697,
+          "MTO": 0.0,
+          "ESC": 0.1
+        },
+        "2060": {
+          "NSC": 5.702601607111238,
+          "MTO": 0.2,
+          "ESC": 0.5903511923131258
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.43306733942711706,
+          "MTO": 0.0,
+          "NSC": 2.3153982494860395,
+          "PDH": 1.246709004937566
+        },
+        "2030": {
+          "CC": 0.4763740733698289,
+          "MTO": 0.0,
+          "NSC": 2.7584204225536477,
+          "PDH": 1.4551930707708491
+        },
+        "2045": {
+          "CC": 0.391307274553788,
+          "MTO": 0.4755182227037263,
+          "NSC": 4.237678399005204,
+          "PDH": 1.0842945118513785
+        },
+        "2060": {
+          "CC": 0.36501390037428444,
+          "MTO": 1.5458288124041446,
+          "NSC": 4.516655260999916,
+          "PDH": 1.3147037236218129
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 1.935302935097123,
+          "NSC": 1.3446160656944333
+        },
+        "2030": {
+          "CR": 2.093407884014439,
+          "NSC": 1.2068832844839008
+        },
+        "2045": {
+          "CR": 1.748684437784187,
+          "NSC": 1.5801277655036399
+        },
+        "2060": {
+          "CR": 1.631183902439004,
+          "NSC": 1.4939066237810235
+        }
+      }
+    }
+  },
+  "Sichuan & Yunnan-Ammonia": {
+    "S1": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 3.3286454724278314,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 1.675966750289383,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.07119308348006799
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 3.513175190743473,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 1.548559847275927,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.9535761890256208,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.3326404800243221,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.6098158883950276,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.00514197383124042
+        },
+        "2060": {
+          "Wind": 1.7011906287420282,
+          "Nuclear": 0.0,
+          "Solar": 7.390975952148437e-18,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1396012755058583,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.041658793325557705,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1926551192970267
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.13486600861117984,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.051379650725722606,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.13972805148551606
+        },
+        "2045": {
+          "Wind": 0.10904539293161855,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.01204057702631087,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.027170993650538763,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.09039408739931849
+        },
+        "2060": {
+          "Wind": 0.18119556671244977,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.08517910248690178
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.1415193644599987,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.4548836708107117,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.24994897593739782,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.7785083134870574,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 0.8278686281045631,
+          "Coal based": 0.006593643940655718,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.2699314527416778,
+          "By-product based": 0.0,
+          "Biomass based": 0.057848974832793956
+        },
+        "2060": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 1.3198144884423288,
+          "DAC&GH2 based": 0.9038499360868493,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 0.9632611098112138,
+          "MTO": 0.0,
+          "ESC": 0.49394259399633733
+        },
+        "2030": {
+          "NSC": 0.9200678724225564,
+          "MTO": 0.0,
+          "ESC": 0.79056256248196
+        },
+        "2045": {
+          "NSC": 1.7279506505296716,
+          "MTO": 0.0,
+          "ESC": 0.5293574471697272
+        },
+        "2060": {
+          "NSC": 2.242527227121984,
+          "MTO": 0.0,
+          "ESC": 0.6049031158460625
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.09186276824654323,
+          "MTO": 0.0,
+          "NSC": 0.6264601160919328,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.10104904507119761,
+          "MTO": 0.0,
+          "NSC": 0.617137250645009,
+          "PDH": 0.1250623076376568
+        },
+        "2045": {
+          "CC": 0.08300457273705514,
+          "MTO": 0.02049391728977544,
+          "NSC": 0.37724607811554917,
+          "PDH": 0.6319866576589614
+        },
+        "2060": {
+          "CC": 0.0774271903792293,
+          "MTO": 0.02808216009793667,
+          "NSC": 0.3254883476188362,
+          "PDH": 0.961031742361169
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.8681771006475428,
+          "NSC": 0.3782249318248979
+        },
+        "2030": {
+          "CR": 0.9399843973300415,
+          "NSC": 0.31415926267328376
+        },
+        "2045": {
+          "CR": 0.7844600230851013,
+          "NSC": 0.48052191546146267
+        },
+        "2060": {
+          "CR": 0.5328481782468882,
+          "NSC": 0.6547174849908286
+        }
+      }
+    },
+    "S3": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 3.3286454724278314,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 1.67596675028938,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.07119308348006795
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 3.513175190743475,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 2.26077236035369,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 10.144490716102446,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 1.2946389885977911,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2060": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 12.798269279743966,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 4.089251668007072,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1396012755058584,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.04165879332555773,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1896593594816552
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.13486600861117995,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.09522323555861403,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.17940783064739058
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.01551211320533288,
+          "Hydro": 0.1792784058280679,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.07101457848343007,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.07304258455461794
+        },
+        "2060": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.18809537660649736,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.015771042691953452,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.07119383862111218
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.1415193644599987,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.45488367081070974,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 0.25313362116072596,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.77785949786145,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 1.0546796222959824,
+          "Coal based": 0.008644914936852235,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.2405277707918725,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 0.6294008145617029,
+          "Coal based": 0.0,
+          "BECCS based": 4.230994807490884,
+          "DAC&GH2 based": 0.1696527279485844,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 0.9632611098112133,
+          "MTO": 0.0,
+          "ESC": 0.493942593996337
+        },
+        "2030": {
+          "NSC": 0.9200678724225508,
+          "MTO": 0.0,
+          "ESC": 0.790562562481967
+        },
+        "2045": {
+          "NSC": 1.8525400657086295,
+          "MTO": 0.0,
+          "ESC": 0.404768031990767
+        },
+        "2060": {
+          "NSC": 1.9696959411799178,
+          "MTO": 0.18374853176383144,
+          "ESC": 0.6939858700242977
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.09186276824654294,
+          "MTO": 0.0,
+          "NSC": 0.6264601160919312,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.10104904507119719,
+          "MTO": 0.0,
+          "NSC": 0.6171372506450068,
+          "PDH": 0.12506230763765672
+        },
+        "2045": {
+          "CC": 0.08300457273705487,
+          "MTO": 0.01778324276829822,
+          "NSC": 0.4613306247927183,
+          "PDH": 0.5506127855032656
+        },
+        "2060": {
+          "CC": 0.07742719037922906,
+          "MTO": 0.24269524226342185,
+          "NSC": 0.3980648969246902,
+          "PDH": 0.6738421108898257
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.8681771006475438,
+          "NSC": 0.3782249318248987
+        },
+        "2030": {
+          "CR": 0.9399843973300425,
+          "NSC": 0.3141592626732858
+        },
+        "2045": {
+          "CR": 0.7844600230851021,
+          "NSC": 0.4805219154614626
+        },
+        "2060": {
+          "CR": 0.731749270545787,
+          "NSC": 0.4558163926919307
+        }
+      }
+    }
+  },
+  "Shanxi & Shaanxi & Henan-Methanol": {
+    "S1": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.6225823922983302,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.79682593842304,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 1.114941665861605
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.673449493585691,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 8.953974999928391,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1507453505393022
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.08673858246007807,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.6113336307285036,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 5.424154241474653,
+          "By-product based": 0.08052771172022752
+        },
+        "2060": {
+          "Wind": 1.202127493157165,
+          "Nuclear": 0.0,
+          "Solar": 0.37600304841130294,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 1.631921790838463,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1948433742771483,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05814373708587916,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.26808182185530216
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.18823429870445912,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.17943174209023388,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1895896954936782
+        },
+        "2045": {
+          "Wind": 0.01690009651482961,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.20727093677580932,
+          "By-product based": 0.1323373776155738
+        },
+        "2060": {
+          "Wind": 0.01773124880244417,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.018122841582873323,
+          "By-product based": 0.15160515905705893
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 17.087759796872533,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.2348111075824404,
+          "By-product based": 2.746409294926245,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 10.329668519950403,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.9587979882971616,
+          "By-product based": 1.4471006251961949,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 3.0041764768790724,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.02614847463512993,
+          "Gas based": 2.6106916586410494,
+          "By-product based": 0.21738104445087872,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 2.390417102853578,
+          "Coal based": 0.0,
+          "BECCS based": 1.3158346131559948,
+          "DAC&GH2 based": 2.868395034355107,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.5454782694448153,
+          "MTO": 0.8182394297378842,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 2.12691359455894,
+          "MTO": 0.523673235032246,
+          "ESC": 0.12421220857980934
+        },
+        "2045": {
+          "NSC": 2.950491702122233,
+          "MTO": 0.2681206963365099,
+          "ESC": 0.4429478138155757
+        },
+        "2060": {
+          "NSC": 3.28737880619102,
+          "MTO": 0.13727779652429314,
+          "ESC": 1.1941358703460363
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.4855603492707104,
+          "MTO": 2.0139747969335713,
+          "NSC": 0.7901679046633023,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.5341163841977815,
+          "MTO": 1.2979814823613027,
+          "NSC": 1.4674305299199615,
+          "PDH": 0.5622969241046402
+        },
+        "2045": {
+          "CC": 0.43873845844817766,
+          "MTO": 0.664566518968987,
+          "NSC": 2.8385866123381502,
+          "PDH": 1.1540831983588187
+        },
+        "2060": {
+          "CC": 0.4092580086710273,
+          "MTO": 0.8408469975490264,
+          "NSC": 2.8269872752393908,
+          "PDH": 2.297984438234259
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.6158085577775336,
+          "NSC": 0.5850652577079573
+        },
+        "2030": {
+          "CR": 0.6574094724151174,
+          "NSC": 0.5509231866448177
+        },
+        "2045": {
+          "CR": 0.556427018277557,
+          "NSC": 0.6623480217865996
+        },
+        "2060": {
+          "CR": 0.3993574520603389,
+          "NSC": 0.7448291522593774
+        }
+      }
+    },
+    "S3": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.6225823922983293,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.790133577436494,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 1.114941665861602
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.4137978093301877,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 8.961769294697898,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.824131705427492,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 5.77390213108753,
+          "By-product based": 0.08052771172022255
+        },
+        "2060": {
+          "Wind": 1.55873270008858,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 1.100278941482699,
+          "Coal based-CCS": 0.9526688833378736,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1948433742771483,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05814373708587918,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.28055376696390716
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.18823429870445918,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.1594059368552546,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.22283511169396777
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.15853743153419744,
+          "By-product based": 0.13466641213210884
+        },
+        "2060": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.01565621868791735,
+          "By-product based": 0.13495234295617686
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 17.08775979687255,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.1556570026211976,
+          "By-product based": 2.74640929492625,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 13.15167297528859,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.3441750342242975,
+          "By-product based": 1.4471006251962049,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 1.902460901609102,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 1.453678443771111,
+          "Gas based": 3.6009211987589747,
+          "By-product based": 0.2173810444508788,
+          "Biomass based": 1.7148249902831465
+        },
+        "2060": {
+          "Coal&GH2 based": 0.5079925893224689,
+          "Coal based": 0.0,
+          "BECCS based": 16.013911862030252,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.5454782694448133,
+          "MTO": 0.8182394297378823,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 2.0286780923810377,
+          "MTO": 0.5236732350322449,
+          "ESC": 0.22244771075771191
+        },
+        "2045": {
+          "NSC": 3.170991805180089,
+          "MTO": 0.26812069633650937,
+          "ESC": 0.22244771075771191
+        },
+        "2060": {
+          "NSC": 2.7172737209896094,
+          "MTO": 0.5230764193519759,
+          "ESC": 1.37844233271976
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.48556034927070996,
+          "MTO": 2.0139747969335717,
+          "NSC": 0.7901679046633022,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.534116384197781,
+          "MTO": 1.297981482361303,
+          "NSC": 1.4674305299199608,
+          "PDH": 0.5622969241046398
+        },
+        "2045": {
+          "CC": 0.43873845844817727,
+          "MTO": 0.6645665189689872,
+          "NSC": 2.729444367894912,
+          "PDH": 1.263225442802053
+        },
+        "2060": {
+          "CC": 0.40925800867102696,
+          "MTO": 1.382839878101096,
+          "NSC": 1.8908599476923393,
+          "PDH": 2.692118885229238
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.6158085577775347,
+          "NSC": 0.5850652577079581
+        },
+        "2030": {
+          "CR": 0.6574094724151186,
+          "NSC": 0.5509231866448189
+        },
+        "2045": {
+          "CR": 0.5564270182775581,
+          "NSC": 0.6623480217865991
+        },
+        "2060": {
+          "CR": 0.5190386415553506,
+          "NSC": 0.6251479627643661
+        }
+      }
+    }
+  },
+  "Shanxi & Shaanxi & Henan-Propylene": {
+    "S1": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.6225823922983302,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.79682593842304,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 1.114941665861605
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.673449493585691,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 8.953974999928391,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1507453505393022
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.08673858246007807,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.6113336307285036,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 5.424154241474653,
+          "By-product based": 0.08052771172022752
+        },
+        "2060": {
+          "Wind": 1.202127493157165,
+          "Nuclear": 0.0,
+          "Solar": 0.37600304841130294,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 1.631921790838463,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1948433742771483,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05814373708587916,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.26808182185530216
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.18823429870445912,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.17943174209023388,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1895896954936782
+        },
+        "2045": {
+          "Wind": 0.01690009651482961,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.20727093677580932,
+          "By-product based": 0.1323373776155738
+        },
+        "2060": {
+          "Wind": 0.01773124880244417,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.018122841582873323,
+          "By-product based": 0.15160515905705893
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 17.087759796872533,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.2348111075824404,
+          "By-product based": 2.746409294926245,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 10.329668519950403,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.9587979882971616,
+          "By-product based": 1.4471006251961949,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 3.0041764768790724,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.02614847463512993,
+          "Gas based": 2.6106916586410494,
+          "By-product based": 0.21738104445087872,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 2.390417102853578,
+          "Coal based": 0.0,
+          "BECCS based": 1.3158346131559948,
+          "DAC&GH2 based": 2.868395034355107,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.5454782694448153,
+          "MTO": 0.8182394297378842,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 2.12691359455894,
+          "MTO": 0.523673235032246,
+          "ESC": 0.12421220857980934
+        },
+        "2045": {
+          "NSC": 2.950491702122233,
+          "MTO": 0.2681206963365099,
+          "ESC": 0.4429478138155757
+        },
+        "2060": {
+          "NSC": 3.28737880619102,
+          "MTO": 0.13727779652429314,
+          "ESC": 1.1941358703460363
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.4855603492707104,
+          "MTO": 2.0139747969335713,
+          "NSC": 0.7901679046633023,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.5341163841977815,
+          "MTO": 1.2979814823613027,
+          "NSC": 1.4674305299199615,
+          "PDH": 0.5622969241046402
+        },
+        "2045": {
+          "CC": 0.43873845844817766,
+          "MTO": 0.664566518968987,
+          "NSC": 2.8385866123381502,
+          "PDH": 1.1540831983588187
+        },
+        "2060": {
+          "CC": 0.4092580086710273,
+          "MTO": 0.8408469975490264,
+          "NSC": 2.8269872752393908,
+          "PDH": 2.297984438234259
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.6158085577775336,
+          "NSC": 0.5850652577079573
+        },
+        "2030": {
+          "CR": 0.6574094724151174,
+          "NSC": 0.5509231866448177
+        },
+        "2045": {
+          "CR": 0.556427018277557,
+          "NSC": 0.6623480217865996
+        },
+        "2060": {
+          "CR": 0.3993574520603389,
+          "NSC": 0.7448291522593774
+        }
+      }
+    },
+    "S3": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.6225823922983293,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.790133577436494,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 1.114941665861602
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.4137978093301877,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 8.961769294697898,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.824131705427492,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 5.77390213108753,
+          "By-product based": 0.08052771172022255
+        },
+        "2060": {
+          "Wind": 1.55873270008858,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 1.100278941482699,
+          "Coal based-CCS": 0.9526688833378736,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1948433742771483,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05814373708587918,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.28055376696390716
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.18823429870445918,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.1594059368552546,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.22283511169396777
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.15853743153419744,
+          "By-product based": 0.13466641213210884
+        },
+        "2060": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.01565621868791735,
+          "By-product based": 0.13495234295617686
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 17.08775979687255,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.1556570026211976,
+          "By-product based": 2.74640929492625,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 13.15167297528859,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.3441750342242975,
+          "By-product based": 1.4471006251962049,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 1.902460901609102,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 1.453678443771111,
+          "Gas based": 3.6009211987589747,
+          "By-product based": 0.2173810444508788,
+          "Biomass based": 1.7148249902831465
+        },
+        "2060": {
+          "Coal&GH2 based": 0.5079925893224689,
+          "Coal based": 0.0,
+          "BECCS based": 16.013911862030252,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.5454782694448133,
+          "MTO": 0.8182394297378823,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 2.0286780923810377,
+          "MTO": 0.5236732350322449,
+          "ESC": 0.22244771075771191
+        },
+        "2045": {
+          "NSC": 3.170991805180089,
+          "MTO": 0.26812069633650937,
+          "ESC": 0.22244771075771191
+        },
+        "2060": {
+          "NSC": 2.7172737209896094,
+          "MTO": 0.5230764193519759,
+          "ESC": 1.37844233271976
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.48556034927070996,
+          "MTO": 2.0139747969335717,
+          "NSC": 0.7901679046633022,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.534116384197781,
+          "MTO": 1.297981482361303,
+          "NSC": 1.4674305299199608,
+          "PDH": 0.5622969241046398
+        },
+        "2045": {
+          "CC": 0.43873845844817727,
+          "MTO": 0.6645665189689872,
+          "NSC": 2.729444367894912,
+          "PDH": 1.263225442802053
+        },
+        "2060": {
+          "CC": 0.40925800867102696,
+          "MTO": 1.382839878101096,
+          "NSC": 1.8908599476923393,
+          "PDH": 2.692118885229238
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.6158085577775347,
+          "NSC": 0.5850652577079581
+        },
+        "2030": {
+          "CR": 0.6574094724151186,
+          "NSC": 0.5509231866448189
+        },
+        "2045": {
+          "CR": 0.5564270182775581,
+          "NSC": 0.6623480217865991
+        },
+        "2060": {
+          "CR": 0.5190386415553506,
+          "NSC": 0.6251479627643661
+        }
+      }
+    }
+  },
+  "Shanxi & Shaanxi & Henan-Ethylene": {
+    "S1": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.6225823922983302,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.79682593842304,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 1.114941665861605
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.673449493585691,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 8.953974999928391,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1507453505393022
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.08673858246007807,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.6113336307285036,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 5.424154241474653,
+          "By-product based": 0.08052771172022752
+        },
+        "2060": {
+          "Wind": 1.202127493157165,
+          "Nuclear": 0.0,
+          "Solar": 0.37600304841130294,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 1.631921790838463,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1948433742771483,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05814373708587916,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.26808182185530216
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.18823429870445912,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.17943174209023388,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.1895896954936782
+        },
+        "2045": {
+          "Wind": 0.01690009651482961,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.20727093677580932,
+          "By-product based": 0.1323373776155738
+        },
+        "2060": {
+          "Wind": 0.01773124880244417,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.018122841582873323,
+          "By-product based": 0.15160515905705893
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 17.087759796872533,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.2348111075824404,
+          "By-product based": 2.746409294926245,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 10.329668519950403,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 1.9587979882971616,
+          "By-product based": 1.4471006251961949,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 3.0041764768790724,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.02614847463512993,
+          "Gas based": 2.6106916586410494,
+          "By-product based": 0.21738104445087872,
+          "Biomass based": 0.0
+        },
+        "2060": {
+          "Coal&GH2 based": 2.390417102853578,
+          "Coal based": 0.0,
+          "BECCS based": 1.3158346131559948,
+          "DAC&GH2 based": 2.868395034355107,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.5454782694448153,
+          "MTO": 0.8182394297378842,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 2.12691359455894,
+          "MTO": 0.523673235032246,
+          "ESC": 0.12421220857980934
+        },
+        "2045": {
+          "NSC": 2.950491702122233,
+          "MTO": 0.2681206963365099,
+          "ESC": 0.4429478138155757
+        },
+        "2060": {
+          "NSC": 3.28737880619102,
+          "MTO": 0.13727779652429314,
+          "ESC": 1.1941358703460363
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.4855603492707104,
+          "MTO": 2.0139747969335713,
+          "NSC": 0.7901679046633023,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.5341163841977815,
+          "MTO": 1.2979814823613027,
+          "NSC": 1.4674305299199615,
+          "PDH": 0.5622969241046402
+        },
+        "2045": {
+          "CC": 0.43873845844817766,
+          "MTO": 0.664566518968987,
+          "NSC": 2.8385866123381502,
+          "PDH": 1.1540831983588187
+        },
+        "2060": {
+          "CC": 0.4092580086710273,
+          "MTO": 0.8408469975490264,
+          "NSC": 2.8269872752393908,
+          "PDH": 2.297984438234259
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.6158085577775336,
+          "NSC": 0.5850652577079573
+        },
+        "2030": {
+          "CR": 0.6574094724151174,
+          "NSC": 0.5509231866448177
+        },
+        "2045": {
+          "CR": 0.556427018277557,
+          "NSC": 0.6623480217865996
+        },
+        "2060": {
+          "CR": 0.3993574520603389,
+          "NSC": 0.7448291522593774
+        }
+      }
+    },
+    "S3": {
+      "AMM": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.6225823922983293,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 10.790133577436494,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 1.114941665861602
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 1.4137978093301877,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 8.961769294697898,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.0
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.824131705427492,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 5.77390213108753,
+          "By-product based": 0.08052771172022255
+        },
+        "2060": {
+          "Wind": 1.55873270008858,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 1.100278941482699,
+          "Coal based-CCS": 0.9526688833378736,
+          "By-product based": 0.0
+        }
+      },
+      "H2": {
+        "2020": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.1948433742771483,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.05814373708587918,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.28055376696390716
+        },
+        "2030": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.18823429870445918,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.1594059368552546,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.0,
+          "By-product based": 0.22283511169396777
+        },
+        "2045": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.15853743153419744,
+          "By-product based": 0.13466641213210884
+        },
+        "2060": {
+          "Wind": 0.0,
+          "Nuclear": 0.0,
+          "Solar": 0.0,
+          "Gas based": 0.0,
+          "Hydro": 0.0,
+          "Biomass based": 0.0,
+          "Gas based-CCS": 0.0,
+          "Coal based": 0.0,
+          "BECCS based": 0.0,
+          "Coal based-CCS": 0.01565621868791735,
+          "By-product based": 0.13495234295617686
+        }
+      },
+      "METH": {
+        "2020": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 17.08775979687255,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.1556570026211976,
+          "By-product based": 2.74640929492625,
+          "Biomass based": 0.0
+        },
+        "2030": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 13.15167297528859,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 2.3441750342242975,
+          "By-product based": 1.4471006251962049,
+          "Biomass based": 0.0
+        },
+        "2045": {
+          "Coal&GH2 based": 0.0,
+          "Coal based": 1.902460901609102,
+          "BECCS based": 0.0,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 1.453678443771111,
+          "Gas based": 3.6009211987589747,
+          "By-product based": 0.2173810444508788,
+          "Biomass based": 1.7148249902831465
+        },
+        "2060": {
+          "Coal&GH2 based": 0.5079925893224689,
+          "Coal based": 0.0,
+          "BECCS based": 16.013911862030252,
+          "DAC&GH2 based": 0.0,
+          "Coal based-CCS": 0.0,
+          "Gas based": 0.0,
+          "By-product based": 0.0,
+          "Biomass based": 0.0
+        }
+      },
+      "ETH": {
+        "2020": {
+          "NSC": 1.5454782694448133,
+          "MTO": 0.8182394297378823,
+          "ESC": 0.0
+        },
+        "2030": {
+          "NSC": 2.0286780923810377,
+          "MTO": 0.5236732350322449,
+          "ESC": 0.22244771075771191
+        },
+        "2045": {
+          "NSC": 3.170991805180089,
+          "MTO": 0.26812069633650937,
+          "ESC": 0.22244771075771191
+        },
+        "2060": {
+          "NSC": 2.7172737209896094,
+          "MTO": 0.5230764193519759,
+          "ESC": 1.37844233271976
+        }
+      },
+      "PRO": {
+        "2020": {
+          "CC": 0.48556034927070996,
+          "MTO": 2.0139747969335717,
+          "NSC": 0.7901679046633022,
+          "PDH": 0.0
+        },
+        "2030": {
+          "CC": 0.534116384197781,
+          "MTO": 1.297981482361303,
+          "NSC": 1.4674305299199608,
+          "PDH": 0.5622969241046398
+        },
+        "2045": {
+          "CC": 0.43873845844817727,
+          "MTO": 0.6645665189689872,
+          "NSC": 2.729444367894912,
+          "PDH": 1.263225442802053
+        },
+        "2060": {
+          "CC": 0.40925800867102696,
+          "MTO": 1.382839878101096,
+          "NSC": 1.8908599476923393,
+          "PDH": 2.692118885229238
+        }
+      },
+      "BTX": {
+        "2020": {
+          "CR": 0.6158085577775347,
+          "NSC": 0.5850652577079581
+        },
+        "2030": {
+          "CR": 0.6574094724151186,
+          "NSC": 0.5509231866448189
+        },
+        "2045": {
+          "CR": 0.5564270182775581,
+          "NSC": 0.6623480217865991
+        },
+        "2060": {
+          "CR": 0.5190386415553506,
+          "NSC": 0.6251479627643661
+        }
+      }
+    }
+  }
+}
