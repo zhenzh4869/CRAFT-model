@@ -13,6 +13,7 @@ The model explicitly represents the production of **ammonia, methanol, high-valu
 
 Through this integrated structure, CRAFT enables a consistent assessment of cost-effective and regionally differentiated low-carbon transition pathways for the chemical industry.
 
+![alt text](image.ppg)
 ---
 
 ## 2. Directory Structure
