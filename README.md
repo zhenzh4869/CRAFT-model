@@ -20,18 +20,25 @@ Through this integrated structure, CRAFT enables a consistent assessment of cost
 To run the model properly, the root directory must contain the following folders and files:
 
 root/
+
 │
+
 ├─ venv/ # Python virtual environment
+
 ├─ model_code/ # Model code written in Python (Jupyter Notebook format)
+
 │
+
 ├─ indices.xlsx # Index file defining model dimensions and mappings
+
 ├─ data.xlsx # Core dataset required by the model
+
 ├─ 00_readme.xlsx # Detailed documentation of each sheet in data.xlsx
+
 │
-├─ S0/ # Result storage folder (scenario S0)
-├─ S1/ # Result storage folder (scenario S1)
-├─ S2/ # Result storage folder (scenario S2)
-├─ S3/ # Result storage folder (scenario S3)
+
+├─ S.../ # Result storage folder (scenario S...)
+
 
 
 
@@ -40,7 +47,7 @@ root/
 - **`indices.xlsx`** defines model indices and structural mappings.  
 - **`data.xlsx`** provides all numerical inputs required for model execution.  
 - **`00_readme.xlsx`** documents the content, units, and meaning of each sheet in `data.xlsx`.  
-- **`S0–S3/`** are used to store outputs for different scenarios.
+- **`S.../`** are used to store outputs for different scenarios.
 
 ---
 
