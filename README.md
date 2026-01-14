@@ -47,7 +47,7 @@ root/
 - **`indices.xlsx`** defines model indices and structural mappings.  
 - **`data.xlsx`** provides all numerical inputs required for model execution.  
 - **`00_readme.xlsx`** documents the content, units, and meaning of each sheet in `data.xlsx`.  
-- **`S.../`** are used to store outputs for different scenarios.
+- **`S.../`** are used to store outputs for different scenarios. You need to create the folder yourself, for example: S0. 
 
 ---
 
